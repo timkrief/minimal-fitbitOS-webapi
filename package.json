@@ -1,6 +1,5 @@
 {
   "fitbit": {
-    "appUUID": "e7e93ed3-3adc-4b13-9118-f225b4e9da53",
     "appType": "app",
     "appDisplayName": "minimal-fitbitOS-webapi",
     "iconFile": "resources/icon.png",
